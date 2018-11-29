@@ -1,47 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-
-    
   <url>
-    <loc>http://blog.norld.com/2017/03/15/%E6%B7%B1%E5%BA%A6%E7%90%86%E8%A7%A3%20super%20init/</loc>
+    <loc>http://norld.com/2017/12/22/%E8%8E%B7%E5%8F%96%20XCAsset%20%E4%B8%AD%20mp4,%20mp3%20%E7%AD%89%E9%9D%9E%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90/</loc>
+    <lastmod>2017-12-22T07:47:46.000Z</lastmod>
+  </url>  <url>
+    <loc>http://norld.com/2017/01/13/HelloWorld/</loc>
+    <lastmod>2017-07-12T05:57:23.000Z</lastmod>
+  </url>  <url>
+    <loc>http://norld.com/2017/03/21/Core%20Foundation%20%E5%AD%A6%E4%B9%A0%20--%20%E5%9B%BE%E7%89%87%E8%B4%A8%E9%87%8F%E7%9A%84%E5%8E%8B%E7%BC%A9%E4%B8%8E%E8%BD%AC%E6%8D%A2/</loc>
+    <lastmod>2017-03-22T06:01:17.000Z</lastmod>
+  </url>  <url>
+    <loc>http://norld.com/2017/03/15/%E6%B7%B1%E5%BA%A6%E7%90%86%E8%A7%A3%20super%20init/</loc>
     <lastmod>2017-03-16T08:37:55.000Z</lastmod>
-    <data>
-        <display>
-        <title>深入理解 [super init]</title>
-        <pubTime>2017-03-15T07:02:00.000Z</pubTime>
-        
-        <tag>iOS</tag>
-         
-        <tag>Runtime</tag>
-         
-        <tag>深入理解</tag>
-         
-         
-           
-             
-              <breadCrumb title="开发学习" url="http://blog.norld.com/categories/%E5%BC%80%E5%8F%91%E5%AD%A6%E4%B9%A0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-    
-    
-    
-  <url>
-    <loc>http://blog.norld.com/2017/01/13/HelloWorld/</loc>
-    <lastmod>2017-01-13T05:36:05.000Z</lastmod>
-    <data>
-        <display>
-        <title>HelloWorld</title>
-        <pubTime>2017-01-13T04:33:00.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
+  </url>
 </urlset>
